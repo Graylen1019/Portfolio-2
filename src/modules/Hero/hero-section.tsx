@@ -1,5 +1,5 @@
 import { Tooltip, TooltipContent, TooltipTrigger } from "@radix-ui/react-tooltip";
-import { FileDownIcon, Github, Icon, LinkedinIcon } from "lucide-react";
+import { FileDownIcon, Github, LinkedinIcon } from "lucide-react";
 import Link from "next/link";
 
 
